@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi! My name is William Li, and I am a Computer Science graduate of the University of Chicago.
+
+I am interested in data analysis.
 
 <!--
 **w-w-li/w-w-li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
