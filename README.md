@@ -1,6 +1,6 @@
 ## Hi! My name is William Li, and I am a Computer Science graduate of the University of Chicago.
 
-I am interested in data analysis 
+I am interested in data analysis and machine learning.
 - I am currently working on a project to predict what college basketball players will become good three-point shooters in the NBA.
 - You can find some of the projects I completed at school under the "UChicago" repository.
 
